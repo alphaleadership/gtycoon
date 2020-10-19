@@ -1,10 +1,12 @@
 {
-  "name": "skid-inc",
+  "name": "gtycoon",
   "main": "index.html",
   "version": "0.0.0",
   "description": "Idle-game with hacking theme.",
   "dependencies": {
-    "http-server": "^0.9.0"
+    
+    "http-server": "^0.9.0",
+    "nvm": "0.0.4"
   },
   "devDependencies": {},
   "scripts": {
@@ -12,8 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TotomInc/skid-inc"
+    "url": "https://github.com/TotomInc/gtycoon"
   },
   "author": "TotomInc <cazade.thomas@gmail.com>",
-  "license": "MIT"
+  "license": "license.md"
 }
